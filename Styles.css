@@ -1,7 +1,12 @@
 body {
-    color: rgba(24, 177, 24, 0.799);
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url(download.jpg);
 }
 header {
     background-color: beige;
+
+}
+h3{
+    margin-left: 20px;
+    background-image: conic-gradient(blue, yellow);
+    padding: auto;
 }
